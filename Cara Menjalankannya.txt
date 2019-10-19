@@ -1,0 +1,5 @@
+Untuk Menjalankan Aplikasi ini :
+	1. Instal Aplikasi Pendukung dulu (Xampp)
+	2. Kemudian Start Apache dan MySQL
+	3. Buka FP_Kripto_kelompok3
+	4. Selesai
